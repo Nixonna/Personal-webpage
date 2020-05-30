@@ -1,0 +1,1 @@
+Please run the project by running the welcome.php file.
